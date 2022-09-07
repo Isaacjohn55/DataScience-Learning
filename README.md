@@ -1,4 +1,9 @@
-# DataScience-Learning
-Here I am adding projects on which I have worked while learning data science
-I have done exploratory data analysis on the raw data before training and testing the data 
-These projects contains machine learning approach with various methods like Linear Regression, Logistic Regression, Decision Trees, Random Forest, Xgboost etc
+# Renew Power Hiring Hackathon
+
+ReNew Power shared minute-wise normalised data of wind speed, power and temperature data for multiple components of a wind turbine. The company is looking to create a model to get an ideally functioning turbine’s expected rotor bearing temperature. It will then use the model to check the deviation of the actual rotor bearing temperature of the faulty turbine from the expected temperature. 
+
+Evaluation :
+The submission is evaluated using the Mean Absolute Percentage Error.
+
+Data
+https://machinehack.com/hackathons/renew_power_hiring_hackathon/data
