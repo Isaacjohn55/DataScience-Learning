@@ -14,3 +14,5 @@ Data
 https://machinehack.com/hackathons/renew_power_hiring_hackathon/data
 
 NOTE: “Timestamp is the unique identifier of the data; it shouldn’t be used as an input in the model”
+
+After applying various algorithms like Linear Regression, Lasso, Ridge, Random Forest Xgboost gave the best performance and my MAPE score comes out to be 0.01925
