@@ -12,3 +12,5 @@ The submission is evaluated using the Mean Absolute Percentage Error.
 
 Data
 https://machinehack.com/hackathons/renew_power_hiring_hackathon/data
+
+NOTE: “Timestamp is the unique identifier of the data; it shouldn’t be used as an input in the model”
