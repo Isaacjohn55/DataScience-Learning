@@ -1,4 +1,4 @@
-# Renew Power Hiring Hackathon - Prediction of rotor bearing temperature
+# Renew Power Hiring Hackathon -  Rotor bearing temperature Prediction
 
 ReNew Power is one of the largest renewable energy Independent Power Producers in India and globally. ReNew Power develops, builds, owns, and operates utility-scale wind and solar energy projects, and hydro projects. As of June 14, 2022, ReNew Power had a gross total portfolio of ~12.8 GW of renewable energy projects across India.
 
